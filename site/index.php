@@ -23,10 +23,10 @@ $add_site = true;
 	<link rel="shortcut icon" href="/images/favicon/favicon.ico">
 	<meta name="apple-mobile-web-app-title" content="Marian Zwierzchowski - Malarstwo">
 	<meta name="application-name" content="Marian Zwierzchowski - Malarstwo">
-	<meta name="msapplication-TileColor" content="#2b5797">
+	<meta name="msapplication-TileColor" content="#4d4d4d">
 	<meta name="msapplication-TileImage" content="/images/favicon/mstile-144x144.png">
 	<meta name="msapplication-config" content="/images/favicon/browserconfig.xml">
-	<meta name="theme-color" content="#050505">
+	<meta name="theme-color" content="#4d4d4d">
 	<!-- end of favicons -->
 	
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
