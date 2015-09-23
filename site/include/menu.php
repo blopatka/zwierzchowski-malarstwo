@@ -23,7 +23,7 @@ if(!$add_site) exit;
 		<div class="zewnetrzneLinki">
 			<li>LINKI</li>
 			<li><a href="http://www.annaartgaleria.pl" title="Galeria Sztuki Wpółczesnej RYNEK 7" target="_blank"><img src="images/annaartgaleria.jpg"/></a></li>
-			<li><a href="http://www.galeria-jaroma.eu" title="Galeria ART Jaroma" target="_blank"><img style="width: 140px; height: auto;" src="images/GaleriaARTJaroma.png"/></a></li>
+			<li><a href="http://www.galeria-jaroma.eu" title="Galeria ART Jaroma" target="_blank"><img style="width: 140px; height: auto;" src="images/galeriaartjaroma.png"/></a></li>
 		</div>
 	</ul>
 </div>

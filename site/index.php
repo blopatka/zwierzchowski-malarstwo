@@ -1,9 +1,17 @@
 <?php
 $add_site = true;
 ?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="description" content="Marian Zwierzchowski - Galeria malarstwa"/>
+	<meta name="author" content="Bartłomiej Łopatka www.lopatka.info"/>
+	<title>Marian Zwierzchowski - Malarstwo</title>
+	<link href='https://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+	<link href="style.css" rel="stylesheet" type="text/css" />
+	<link href="fancybox/jquery.fancybox-1.3.4.css" rel="stylesheet" type="text/css"/>
+	
 	<!-- start of favicons - http://realfavicongenerator.net/ -->
 	<link rel="apple-touch-icon" sizes="57x57" href="/images/favicon/apple-touch-icon-57x57.png">
 	<link rel="apple-touch-icon" sizes="60x60" href="/images/favicon/apple-touch-icon-60x60.png">
@@ -29,20 +37,16 @@ $add_site = true;
 	<meta name="theme-color" content="#4d4d4d">
 	<!-- end of favicons -->
 	
-	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-	<meta name="description" content="Marian Zwierzchowski - Galeria malarstwa"/>
-	<meta name="author" content="Bartłomiej Łopatka www.lopatka.info"/>
-	<title>Marian Zwierzchowski - Malarstwo</title>
-	<link href='https://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
-	<link href="style.css" rel="stylesheet" type="text/css" />
-	<link href="fancybox/jquery.fancybox-1.3.4.css" rel="stylesheet" type="text/css"/>
+	
+	<?php include_once("analyticstracking.php") ?>
 </head>
-<?php include_once("analyticstracking.php") ?>
+
 <body>
-<script src="jquery-1.6.2.min.js" type="text/javascript"></script>
-<script src="jquery.imgCenter.minified.js" type="text/javascript"></script>
+<script src="js/jquery-1.11.3.min.js" type="text/javascript"></script>
+<script src="js/jquery-migrate-1.2.1.js" type="text/javascript"></script>
+<script src="js/jquery.imgCenter.minified.js" type="text/javascript"></script>
 <script src="fancybox/jquery.fancybox-1.3.4.pack.js" type="text/javascript"></script>
-<script src="gallery.js" type="text/javascript"></script>
+<script src="js/gallery.js" type="text/javascript"></script>
 <div id="top">
 <?php
 include "include/header.php";
