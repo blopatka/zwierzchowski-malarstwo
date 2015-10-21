@@ -13,4 +13,7 @@ document.title="Marian Zwierzchowski - Malarstwo - 2015";
 	<div class="kafel"><a href="images/2015/mToporzysko, 110x80, akryl, 2015.jpg" title="Toporzysko, 110x80, akryl, 2015"><img alt="Toporzysko, 110x80, akryl, 2015" src="images/2015/min/sToporzysko, 110x80, akryl, 2015.jpg" /></a></div>
 	<div class="kafel"><a href="images/2015/mTulum 2014, Acryl, 80x100.jpg" title="Tulum 2014, Acryl, 80x100"><img alt="Tulum 2014, Acryl, 80x100" src="images/2015/min/sTulum 2014, Acryl, 80x100.jpg" /></a></div>
 	<div class="kafel"><a href="images/2015/mXXX, 120x100 akryl.jpg" title="XXX, 120x100 akryl"><img alt="XXX, 120x100 akryl" src="images/2015/min/sXXX, 120x100 akryl.jpg" /></a></div>
-</div>﻿
+	<div class="kafel"><a href="images/2015/mIwona, 80x100, akryl.jpg" title="Iwona, 80x100, akryl"><img alt="Iwona, 80x100, akryl" src="images/2015/min/sIwona, 80x100, akryl.jpg" /></a></div>
+	<div class="kafel"><a href="images/2015/mIzabela, 80x100, akryl.jpg" title="Izabela, 80x100, akryl"><img alt="Izabela, 80x100, akryl" src="images/2015/min/sIzabela, 80x100, akryl.jpg" /></a></div>
+
+	</div>﻿
