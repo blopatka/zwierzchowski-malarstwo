@@ -9,8 +9,8 @@ $add_site = true;
 	<meta name="author" content="Bartłomiej Łopatka www.lopatka.info"/>
 	<title>Marian Zwierzchowski - Malarstwo</title>
 	<link href='https://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
-	<link href="style.css" rel="stylesheet" type="text/css" />
-	<link href="fancybox/jquery.fancybox-1.3.4.css" rel="stylesheet" type="text/css"/>
+	<link type="text/css" rel="stylesheet" href="css/lightgallery.min.css" /> 
+    <link href="css/style.css" rel="stylesheet" type="text/css" />
 	
 	<!-- start of favicons - http://realfavicongenerator.net/ -->
 	<link rel="apple-touch-icon" sizes="57x57" href="/images/favicon/apple-touch-icon-57x57.png">
@@ -37,16 +37,18 @@ $add_site = true;
 	<meta name="theme-color" content="#4d4d4d">
 	<!-- end of favicons -->
 	
-	
+    <script src="js/jquery-1.11.3.min.js" type="text/javascript"></script>
+    <script src="js/jquery.mousewheel.min.js" type="text/javascript"></script>
+    <script src="js/jquery.imgCenter.minified.js" type="text/javascript"></script>
+	<script src="js/gallery.js" type="text/javascript"></script>
+    
 	<?php include_once("analyticstracking.php") ?>
 </head>
 
 <body>
-<script src="js/jquery-1.11.3.min.js" type="text/javascript"></script>
-<script src="js/jquery-migrate-1.2.1.js" type="text/javascript"></script>
-<script src="js/jquery.imgCenter.minified.js" type="text/javascript"></script>
-<script src="fancybox/jquery.fancybox-1.3.4.pack.js" type="text/javascript"></script>
-<script src="js/gallery.js" type="text/javascript"></script>
+    <script src="js/lightgallery.min.js"></script>
+    <script src="js/lg-thumbnail.min.js"></script>
+    <script src="js/lg-fullscreen.min.js"></script>
 <div id="top">
 <?php
 include "include/header.php";
