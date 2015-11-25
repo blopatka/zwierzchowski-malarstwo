@@ -2,10 +2,10 @@
 <browserconfig>
   <msapplication>
     <tile>
-      <square70x70logo src="/images/favicon/mstile-70x70.png"/>
-      <square150x150logo src="/images/favicon/mstile-150x150.png"/>
-      <square310x310logo src="/images/favicon/mstile-310x310.png"/>
-      <wide310x150logo src="/images/favicon/mstile-310x150.png"/>
+      <square70x70logo src="http://zwierzchowski.art.pl/images/favicon/mstile-70x70.png?v=699GY03xWN"/>
+      <square150x150logo src="http://zwierzchowski.art.pl/images/favicon/mstile-150x150.png?v=699GY03xWN"/>
+      <square310x310logo src="http://zwierzchowski.art.pl/images/favicon/mstile-310x310.png?v=699GY03xWN"/>
+      <wide310x150logo src="http://zwierzchowski.art.pl/images/favicon/mstile-310x150.png?v=699GY03xWN"/>
       <TileColor>#4d4d4d</TileColor>
     </tile>
   </msapplication>
