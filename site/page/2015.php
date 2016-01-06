@@ -15,5 +15,9 @@ document.title="Marian Zwierzchowski - Malarstwo - 2015";
 	<div class="kafel"><a href="images/2015/mXXX, 120x100 akryl.jpg" title="XXX, 120x100 akryl"><img alt="XXX, 120x100 akryl" src="images/2015/min/sXXX, 120x100 akryl.jpg" /></a></div>
 	<div class="kafel"><a href="images/2015/mIwona, 80x100, akryl.jpg" title="Iwona, 80x100, akryl"><img alt="Iwona, 80x100, akryl" src="images/2015/min/sIwona, 80x100, akryl.jpg" /></a></div>
 	<div class="kafel"><a href="images/2015/mIzabela, 80x100, akryl.jpg" title="Izabela, 80x100, akryl"><img alt="Izabela, 80x100, akryl" src="images/2015/min/sIzabela, 80x100, akryl.jpg" /></a></div>
-
+	<div class="kafel"><a href="images/2015/mPaniDoktor, 70x50, akryl .jpg" title="PaniDoktor, 70x50, akryl"><img alt="PaniDoktor, 70x50, akryl" src="images/2015/min/sPaniDoktor, 70x50, akryl .jpg" /></a></div>
+	<div class="kafel"><a href="images/2015/mZagubiona, 120x100, akryl.jpg" title="Zagubiona, 120x100, akryl"><img alt="Zagubiona, 120x100, akryl" src="images/2015/min/sZagubiona, 120x100, akryl.jpg" /></a></div>
+	<div class="kafel"><a href="images/2015/m1 XL, 60x100, akryl.jpg" title="1 XL, 60x100, akryl.jpg"><img alt="1 XL, 60x100, akryl.jpg" src="images/2015/min/s1 XL, 60x100, akryl.jpg" /></a></div>
+	<div class="kafel"><a href="images/2015/m2 XS, 60x100, akryl.jpg" title="2 XS, 60x100, akryl"><img alt="2 XS, 60x100, akryl" src="images/2015/min/s2 XS, 60x100, akryl.jpg" /></a></div>
+	<div class="kafel"><a href="images/2015/m3 XP, 60x100, akryl.jpg" title="3 XP, 60x100, akryl"><img alt="3 XP, 60x100, akryl" src="images/2015/min/s3 XP, 60x100, akryl.jpg" /></a></div>
 	</div>﻿
