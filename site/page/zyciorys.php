@@ -87,7 +87,16 @@ document.title="Marian Zwierzchowski - Biografia";
 		<li>2014 – 7 – Teltower Kunstsonntag Teltow/Berlin</li>
 		<li>2015 – Galeria Muzeum Regionalnego w Wolinie, wystawa indywidualna</li>
 		<li>2015 – FORM-ART Glinde/Hamburg</li>
-		<li>2015 -- Kap-Hoorn ART „Die Siebte“, Bremen</li>
+		<li>2015 - Kap-Hoorn ART „Die Siebte“, Bremen</li>
 		<li>2015 – Świnoujście Galeria „ART“, wystawa zbiorowa</li>
+        <li>2016 – AURAKURE - Hamburg, wystawa międzynarodowa</li>
+        <li>2016 – FORM-ART Glinde/Hamburg, wystawa międzynarodowa</li>
+        <li>2016 – Garbicz/Gorzów Wlkp. Plener i wystawa poplenerowa</li>
+        <li>2017 – Galeria „ART“ Świnoujście - wystawa „Artyści Świnoujścia“</li>
+        <li>2017 – AURAKURE - Hamburg, wystawa międzynarodowa</li>
+        <li>2017 – Galeria MS44 Świnoujście, wystawa „Artyści Świnoujścia“</li>
+        <li>2017 – Galeria Cafe El Papa Świnoujście, wystawa indywidualna</li>
+        <li>2018 – ART SYMPOSIUM – DEAD SEA – Irbid/Jordania</li>
+        <li>2018 – ART SYMPOSIUM – Ejmiatsin/Armenia</li>
 	</ul>
 </div>
