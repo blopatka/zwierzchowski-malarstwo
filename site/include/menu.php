@@ -7,7 +7,8 @@ if(!$add_site) exit;
 		<li><a href="index.php?go=lebenslauf" title="Lebenslauf">Lebenslauf</a></li>
 		<hr>
 		<li>Prace/Malerei:</li>
-		<li><a href="index.php?go=2017" title="2017">2017</a></li>
+		<li><a href="index.php?go=2018" title="2018">2018</a></li>
+        <li><a href="index.php?go=2017" title="2017">2017</a></li>
 		<li><a href="index.php?go=2016" title="2016">2016</a></li>
 		<li><a href="index.php?go=2015" title="2015">2015</a></li>
 		<li><a href="index.php?go=2014" title="2014">2014</a></li>
