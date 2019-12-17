@@ -98,5 +98,8 @@ document.title="Marian Zwierzchowski - Biografia";
         <li>2017 – Galeria Cafe El Papa Świnoujście, wystawa indywidualna</li>
         <li>2018 – ART SYMPOSIUM – DEAD SEA – Irbid/Jordania</li>
         <li>2018 – ART SYMPOSIUM – Ejmiatsin/Armenia</li>
+        <li>2019 - Galeria Cafe El Papa Świnoujście, wystawa indywidualna</li>
+        <li>2019 - ART SYMPOSIUM - GEORGIA, THE CRADLE OF WINE - Bazaleti Lake/Gruzja</li>
+        <li>2019 - ARSINOE INTERNATIONAL CONTEMPORARY ART FORUM - Fayoum/ Egipt</li>
 	</ul>
 </div>
