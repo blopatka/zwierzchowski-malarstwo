@@ -101,5 +101,10 @@ document.title="Marian Zwierzchowski - Biografia";
         <li>2019 - Galeria Cafe El Papa Świnoujście, wystawa indywidualna</li>
         <li>2019 - ART SYMPOSIUM - GEORGIA, THE CRADLE OF WINE - Bazaleti Lake/Gruzja</li>
         <li>2019 - ARSINOE INTERNATIONAL CONTEMPORARY ART FORUM - Fayoum/ Egipt</li>
+		<li>2020 - ART SYMPOSIUM OREBIĆ / Chorwacja</li>
+		<li>2021 - „WyDADArzenie“ Świnoujście El Papa</li>
+		<li>2021 - UVALNO/Czechy Wystawa indywidualna</li>
+		<li>2021 - Galeria MBP ZAMOSTEK Opole Wystawa indywidualna</li>
+		<li>2021 - ART SYMPOSIUM Ventspils / Łotwa</li>
 	</ul>
 </div>
