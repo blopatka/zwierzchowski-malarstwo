@@ -5,7 +5,7 @@ if(!$add_site) exit;
 	<ul>
 		<li><a href="index.php?go=zyciorys" title="Życiorys">Życiorys</a></li>
 		<li><a href="index.php?go=lebenslauf" title="Lebenslauf">Lebenslauf</a></li>
-		<li><a href="index.php?go=profile" title="Artistic profile">Artistic profile</a></li>
+		<li><a href="index.php?go=profile" title="Résumé">Résumé</a></li>
 		<hr>
 		<li>Prace/Malerei:</li>
 		<li><a href="index.php?go=2021" title="2021">2021</a></li>
