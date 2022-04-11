@@ -8,6 +8,7 @@ document.title="Marian Zwierzchowski - Biografia";
 	<p>Obecnie mieszka w Świnoujściu, czynnie działa w świnoujskim srodowisku artystycznym wystawiając, biorąc udział w licznych plenerach krajowych i zagranicznych. </p>
 	<p>Aktywnie współpracuję z Galerią „ART” w Świnoujsciu, brał udział w cyklicznych wystawch „KUNST OFFEN” i „KUNST HEUTE” oraz uczestniczył w Programie Współpracy Transgranicznej Południowy Bałtyk 2007-2013 „FOUR CORNERS”. Od roku 2011 bierze udział w corocznych wystawach w Teltow koło Berlina i w cyklicznych międzynarodowech wystawach Kap-Hoorn ART w Bremen i w FormART Glinde koło Hamburga.</p>
 	<p>Jest członkiem Związku Polskich Artystów Plastyków Polska Sztuka Użytkowa.</p>
+	<p>Członek International Professional Art Association VIPAA, New York, USA</p>
 	<h2>Ważniejsze wystawy do roku 1979 </h2>
 	<ul>
 		<li>1956 – Puławy, PDK</li>

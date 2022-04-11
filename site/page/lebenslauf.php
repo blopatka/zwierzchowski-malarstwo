@@ -8,6 +8,7 @@ document.title="Marian Zwierzchowski - Biografia";
 	<p>Seit 1981 lebt und arbeitet in der BRD. Zuerst in hessischen Führt/Odenwald, dann inHeilbronn als freier Künstler und Grafik-Designer. Als Mitglied des Kunstvereins Hofgeismar und dann Mitglied des Kunstvereins Heilbronn nimmt an mehreren Ausstellungen teil.</p>
 	<p>Seit 2006 lebt und arbeitet in Świnoujście/Polen. Arbeitet aktiv mit der Kunstgalerie „ART“ in Świnoujście mit, nimmt an mehreren Ausstellungen und  künstlerischen Workshops in Polen und in Ausland teil.</p>
 	<p>Mitglied des Polnischen Künstler- und Designerbundes.</p>
+	<p>Mitglied des International Professional Art Association VIPAA, New York, USA</p>
 	<h2>Wichtigste Ausstellungen bis 1979</h2>
 	<ul>
 		<li>1956 – Puławy, PDK</li>
