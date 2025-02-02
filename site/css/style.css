@@ -153,22 +153,31 @@ h1, h2 {
 	margin: 20px 0;	
 }
 
-#tresc .zawartosc .kafel {
-	height: 184px;
-	width: 184px;
-	margin-left: 12x;
-	margin-right: 12px;
-	margin-top: 5px;
-	margin-bottom: 5px;
-	float: left;
+#tresc .zawartosc .galeria {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(184px, 1fr));
+    gap: 12px;
+    justify-items: center;
+    align-items: center;
+    padding: 20px;
 }
 
-#tresc .zawartosc a img {
-	border-style: solid;
-	border-color: #fff;
-	border-width: 1px;
-	vertical-align: middle;	
+#tresc .zawartosc .galeria .kafel {
+    width: 184px;
+    height: 184px;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
+
+#tresc .zawartosc .galeria .kafel img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 4px;
+}
+
 
 #stopka .lewo {
 	margin-top: 20px;
