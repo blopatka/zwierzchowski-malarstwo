@@ -1,2 +1,2 @@
 # zwierzchowski-malarstwo
-zwierzchowski.art.pl
+deployed at https://zwierzchowski-art.pl
