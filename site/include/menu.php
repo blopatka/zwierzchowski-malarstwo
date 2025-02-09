@@ -8,6 +8,9 @@ if(!$add_site) exit;
 		<li><a href="index.php?go=profile" title="Résumé">Résumé</a></li>
 		<hr>
 		<li>Prace/Malerei:</li>
+		<li><a href="index.php?go=2024" title="2021">2024</a></li>
+		<li><a href="index.php?go=2023" title="2021">2023</a></li>
+		<li><a href="index.php?go=2022" title="2021">2022</a></li>
 		<li><a href="index.php?go=2021" title="2021">2021</a></li>
 		<li><a href="index.php?go=2020" title="2020">2020</a></li>
         <li><a href="index.php?go=2019" title="2019">2019</a></li>
