@@ -11,68 +11,58 @@ document.title="Marian Zwierzchowski - Résumé";
 	<p>Since 2006 lives and works in Swinoujscie / Poland. He actively collaborates with the art gallery &quot;ART&quot; in Swinoujscie, participates in several exhibitions and artistic workshops in Poland and abroad.</p>
 	<p>Member of the Polish Association of Artists and Designers.</p>
 	<p>Member of the International Professional Art Association VIPAA, New York, USA</p>
-	<h2>My most important exhibitions from 1956 </h2>
+	<h2>Exhibitions 2007-2024</h2>
 	<ul>
-		<li>1956 - Puławy House of Culture, Puławy / Poland, collective exhibition</li>
-		<li>1963 - BWA Wrocław / Poland, collective exhibition</li>
-		<li>1966 - MPiK Gorzów Wlkp. / Poland, collective exhibition</li>
-		<li>1967 - City Exhibition Hall Puławy / Poland, collective exhibition</li>
-		<li>1968 - Polish Nationwide Exhibition, Kazimierz n/Wisła / Poland, collective exhibition</li>
-		<li>1970 - Castle Lublin / Poland, collective exhibition</li>
-		<li>1971 - City Exhibition Hall Puławy / Poland, collective exhibition</li>
-		<li>1972 - House of Culture, Lublin / Poland, collective exhibition</li>
-		<li>1972 - City Exhibition Hall Zamość / Poland, collective exhibition</li>
-		<li>1973 - House of Culture, Lublin / Poland, collective exhibition</li>
-		<li>1976 - Company Community Center Puławy / Poland, collective exhibition</li>
-		<li>1978 - Museum Domek Gotycki, Puławy / Poland, solo exhibition</li>
-		<li>1979 - ART SYMPOSIUM Hojdunanas / Hungary, collective exhibition</li>
-		<li>1979 - House of Culture, Lublin / Poland, collective exhibition</li>
-		<li>1982 - VOLKSHOCHSCHULE Hofgeismar / Germany, solo exhibition</li>
-		<li>1983 - Galerie TREFF, Rauderfehn / Germany, solo exhibition</li>
-		<li>1983 - Galerie Am Markt, Hofgeismar / Germany, solo exhibition</li>
-		<li>1983 - Klinikum Hofgeismar / Germany, collective exhibition</li>
-		<li>1984 - BINDHAUS Galerie, Pfullendorf am Bodensee / Germany, solo exhibition</li>
-		<li>1984 - Galerie Am Markt, Hofgeismar / Germany, collective exhibition</li>
-		<li>1985 - Rathaus Kassel / Germany, collective exhibition</li>
-		<li>1985 - Cuxhaven Klinikum / Germany, collective exhibition</li>
-		<li>1986 - Augsburg Klinikum / Germany, collective exhibition</li>
-		<li>1986 - German Orthopedic Congress Bad Nauheim /Germany, collective exhibition</li>
-		<li>1988 - Harmonie Heilbronn, collective exhibition</li>
-		<li>1989 - GENO HAUS GALERIE Stuttgart / Germany, solo exhibition</li>
-		<li>1996 - Galerie „PodRos“ Heilbronn / Germany, solo exhibition</li>
-		<li>1997 - VOLKSHOCHSCHULE Heilbronn / Germany, solo exhibition</li>
-		<li>1999 - Volksbank Gallery Oedheim / Germany, solo exhibition</li>
-		<li>2000 - Exhibition of Polish Contemporary Art, Oedheim Castle /Germany, collective exhibition</li>
-		<li>2007 - International Painting Workshop „WISELKA“ Poland, collective exhibition</li>
-		<li>2007 - Galeria ART Świnoujście / Poland, solo exhibition</li>
-		<li>2008 - International Painting Workshop, Maków Podhalanski / Poland, collective exhibition</li>
-		<li>2008 - International Painting Workshop, Puławy / Poland, collective exhibition</li>
+		<li>2007 - International Painting Workshop „WISEŁKA“, collective exhibition</li>
+		<li>2007 - Galeria ART Świnoujście, solo exhibition</li>
+		<li>2008 - International Painting Workshop, Maków Podhalański, collective exhibition</li>
+		<li>2008 - International Painting Workshop, Puławy, collective exhibition</li>
 		<li>2008 - ART RÜGANA, Bergen / Rügen, Germany, collective exhibition</li>
 		<li>2009 - „KUNST OFFEN”, Lassan / Germany, collective exhibition</li>
 		<li>2010 - „KUNST HEUTE”, Neubrandenburg / Germany, collective exhibition</li>
-		<li>2010 - HERBSTSALON Neubrandenburg / Germany, collective exhibition</li>
-		<li>2007 - Kulturprogramm „FOUR CORNERS” Poland/Germany, collective exhibition</li>
-		<li>2011 - „KARUZELA COOLTURY“ Ahlbeck / Germany, collective exhibition</li>
-		<li>2011 - 4-Teltower Kunst-Sonntag Teltow / Berlin/Germany, collective exhibition</li>
-		<li>2012 - 5-Teltower Kunst-Sonntag Teltow / Berlin/Germany,collective exhibition</li>
-		<li>2013 - Galeria ART Świnoujście / Poland, solo exhibition</li>
+		<li>2010 - „HERBSTSALON”, Neubrandenburg / Germany, collective exhibition</li>
+		<li>2007 - Kulturprogramm „FOUR CORNERS”, Świnoujście, collective exhibition</li>
+		<li>2011 - „KARUZELA COOLTURY” Ahlbeck / Germany, collective exhibition</li>
+		<li>2011 - 4-Teltower Kunst-Sonntag Teltow / Berlin / Germany, collective exhibition</li>
+		<li>2012 - 5-Teltower Kunst-Sonntag Teltow / Berlin / Germany, collective exhibition</li>
+		<li>2013 - Galeria ART Świnoujście, solo exhibition</li>
 		<li>2013 - Cap-Hoorn ART die Fünfte, Bremen / Germany, collective exhibition</li>
-		<li>2013 - 6-Teltower Kunst-Sonntag, Teltow / Berlin, Germany, collective exhibition</li>
-		<li>2013 - Świnoujście Galeria ART / Poland, solo exhibition</li>
-		<li>2014 - Cap-Hoorn ART die Sechste, Bremen / Germany, collective exhibition</li>
-		<li>2014 - Gallery „Pierogarnia“, Berlin / Germany, solo exhibition</li>
-		<li>2014 - 7-Teltower Kunst-Sonntag, Teltow / Berlin, Germany, collective exhibition</li>
+		<li>2013 - 6-Teltower Kunst-Sonntag Teltow / Berlin / Germany, collective exhibition</li>
+		<li>2013 - Świnoujście Galeria ART, solo exhibition</li>
+		<li>2014 - Cap-Hoorn ART die Sechste, Bremen / Germany, collective exhibition
+		<li>2014 - Gallery „Pierogarnia”, Berlin / Germany, solo exhibition</li>
+		<li>2014 - 7-Teltower Kunst-Sonntag Teltow / Berlin / Germany, collective exhibition</li>
 		<li>2015 - FORM ART Hamburg / Germany, collective exhibition</li>
 		<li>2016 - AURAKURE Hamburg / Germany, collective exhibition</li>
 		<li>2018 - The New Fringe Doncaster / England, collective exhibition</li>
-		<li>2018 - ART SYMPOSIUM DEAD SEA Irbid /Jordan, collective exhibition</li>
+		<li>2018 - ART SYMPOSIUM DEAD SEA Irbid / Jordan, collective exhibition</li>
 		<li>2018 - ART SYMPOSIUM Ejmiatsin / Armenia, collective exhibition</li>
 		<li>2019 - ART SYMPOSIUM Basaleti Lake / Georgia, collective exhibition</li>
-		<li>2019 - ART SYMPOSIUM Fajum / Egypt,collective exhibition</li>
-		<li>2020 - 2020 International Workshop OREBIĆ / Croatia, collective exhibition</li>
-		<li>2021 - „WyDADArzenie“ Gallery „El Papa“,Świnoujście / Poland, collective exhibition</li>
-		<li>2021 - UVALNO / Czech Republic, solo exhibition,</li>
-		<li>2021 - Galeria MBP ZAMOSTEK Opole / Poland, solo exhibition</li>
+		<li>2019 - ART SYMPOSIUM Fayoum / Egypt, collective exhibition</li>
+		<li>2020 - INTERNATIONAL WORKSHOP OREBIĆ / Croatia, collective exhibition</li>
+		<li>2021 - „WyDADArzenie“ Gallery „El Papa“, Świnoujście, collective exhibition</li>
+		<li>2021 - ÚVALNO / Czech Republic, solo exhibition</li>
+		<li>2021 - Galeria Miejskiej Biblioteki Publicznej ZAMOSTEK Opole, solo exhibition</li>
 		<li>2021 - ART SYMPOSIUM Ventspils / Lettland, collective exhibition</li>
+		<li>2022 - Feldberg / Germany, collective exhibition</li>
+		<li>2022 - Inter. Meeting of Artists „OREBIĆ 2022“ Orebić / Croatia, collective exhibition</li>
+		<li>2022 - Haegeumgang Theme Museum Geoje / South Korea, collective exhibition</li>
+		<li>2022 - ART FORUM NO BOUNDARIES / Superb Gallery, New York, collective exhibition</li>
+		<li>2022 - NIGDE ART GALLERY, Cappadocia, Turkye, collective exhibition</li>
+		<li>2022 - El Papa Gallery Świnoujście, collective exhibition</li>
+		<li>2023 - Galeria Domu Chemika w Puławach, solo exhibition</li>
+		<li>2024 - Świnoujście, FORT ART GROUP, collective exhibition</li>
+		<li>2024/25 - ART FESTIVAL, Geoje, South Korea, collective exhibition</li>
+		<li>2024 - Irbid ART GALLERY TODAY, Jordan, collective exhibition</li>
+	</ul>
+	<h2>Awards</h2>
+	<ul>
+		<li>1968 - Awarded with the Medal of Polish Museology Puławy / Poland</li>
+		<li>1970 - Awarded with the medal of St. Ursus Solothurn / Switzerland</li>
+		<li>2019 - Awarded for Art Forum ARSENOE Fayoum / Egypt</li>
+		<li>2022 - Member of the INTERNATIONAL PROFFESIONAL ART ASSOCIATION, VIPAA, New York / USA</li>
+		<li>2022 - Excellence Award in the Int. Group Exhibition Geoje / South Korea</li>
+		<li>2022 - Best of the Show AWARD NY 2022 Vision Art Media, New York / USA</li>
+		<li>2023 - International Career Awards 2023 President Office of Palermo / Italy</li>
 	</ul>
 </div>
