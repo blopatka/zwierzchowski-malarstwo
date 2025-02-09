@@ -132,6 +132,7 @@ h1, h2 {
 	font-size: 60px;
 	letter-spacing: 3px;
 	line-height: 50px;	
+	color: #fff;
 }
 
 .malarstwo {
@@ -168,7 +169,28 @@ h1, h2 {
     overflow: hidden;
     display: flex;
     justify-content: center;
-    align-items: center;
+	align-items: center
+}
+
+#tresc .zawartosc .galeria-60-tytul {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+#tresc .zawartosc .galeria-60-tytul img {
+	border-radius: 8px;
+}
+
+#tresc .zawartosc .galeria.galeria-60 {
+	grid-template-columns: repeat(auto-fill, minmax(92px, 1fr));
+	gap: 6px;
+}
+
+#tresc .zawartosc .galeria.galeria-60 .kafel {
+	width: 92px;
+	height: 92px;
+	align-items: normal;
 }
 
 #tresc .zawartosc .galeria .kafel img {

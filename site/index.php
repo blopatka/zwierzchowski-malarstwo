@@ -10,7 +10,7 @@ $add_site = true;
 	<title>Marian Zwierzchowski - Malarstwo</title>
 	<link href='https://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
 	<link type="text/css" rel="stylesheet" href="css/glightbox.min.css" />
-    <link href="css/style.css" rel="stylesheet" type="text/css" />
+    <link href="css/style.css?v=20250209" rel="stylesheet" type="text/css" />
 	
 	<!-- start of favicons - http://realfavicongenerator.net/ -->
 	<link rel="apple-touch-icon" sizes="57x57" href="https://zwierzchowski-art.pl/images/favicon/apple-touch-icon-57x57.png?v=699GY03xWN">
@@ -68,7 +68,7 @@ if(!empty($go)) {
 		include "page/404.php";
 	}
 } else {
-	include "page/zyciorys.php";
+	include "page/60-lat.php";
 }
 
 include "include/bottom.php"
