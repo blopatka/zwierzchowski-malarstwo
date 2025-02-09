@@ -4,3 +4,8 @@ services:
       context: .
     ports:
       - 9000:80
+    develop:
+      watch:
+        - action: sync+restart
+          path: ./site
+          target: /var/www/html
