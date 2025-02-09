@@ -6,6 +6,7 @@ document.title="Marian Zwierzchowski - Jubileusz 60 lat pracy twórczej";
 	<div class="galeria-60-tytul">
 		<div class="kafel"><a href="images/60-lat/FOLDER_ZWIERZCHOWSKI_1.jpg"><img src="images/60-lat/min/sFOLDER_ZWIERZCHOWSKI_1.jpg"/></a></div>
 	</div>
+	<h2 class="pdf-link"><a href="/download/FOLDER_ZWIERZCHOWSKI.pdf" download>pobierz Folder Jubileuszowy PDF (47 MB)</a></h1>
 	<div class="galeria galeria-60">
 		<div class="kafel"><a href="images/60-lat/FOLDER_ZWIERZCHOWSKI_2.jpg"><img src="images/60-lat/min/sFOLDER_ZWIERZCHOWSKI_2.jpg"/></a></div>
 		<div class="kafel"><a href="images/60-lat/FOLDER_ZWIERZCHOWSKI_3.jpg"><img src="images/60-lat/min/sFOLDER_ZWIERZCHOWSKI_3.jpg"/></a></div>
